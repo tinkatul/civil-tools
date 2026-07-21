@@ -7,43 +7,20 @@ name=Civil Tools
 qgisMinimumVersion=3.44
 qgisMaximumVersion=4.99
 description=Herramientas para ingeniería civil y Civil 3D
-version=1.0
-author=MM CHATGPT
-email=MARTIN@EXAMPLE.ORG
+version=1.0.1
+author=Martin Moran
+email=moran.martin.andres@gmail.com
 
-about=TRANSFORMA CAPA LINEAS EN LINEAS 3D
+about=Transforma capas de líneas 2D en líneas 3D utilizando un campo de elevación.
 
 tracker=https://github.com/tinkatul/civil-tools/issues
 repository=https://github.com/tinkatul/civil-tools
 homepage=https://github.com/tinkatul/civil-tools
-# End of mandatory metadata
-
-# Recommended items:
 
 hasProcessingProvider=no
-# Uncomment the following line and add your changelog:
-# changelog=
-
-# Tags are comma separated with spaces allowed
-tags=civil3d, topografia, dem, curvas, qgis, dxf
-
-homepage=https://github.com/mmoran/civil-tools
-category=Plugins
+tags=civil3d, topografia, dem, curvas de nivel, qgis, dxf
+category=Vector
 icon=icon.png
-# experimental flag
 experimental=False
-
-# deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
-
-# Since QGIS 3.8, a comma separated list of plugins to be installed
-# (or upgraded) can be specified.
-# Check the documentation for more information.
-# plugin_dependencies=
-
-Category of the plugin: Raster, Vector, Database or Web
-# category=
-
-# If the plugin can run on QGIS Server.
 server=False
-
