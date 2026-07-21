@@ -5,6 +5,7 @@
 [general]
 name=Civil Tools
 qgisMinimumVersion=3.44
+qgisMaximumVersion=4.99
 description=Herramientas para ingeniería civil y Civil 3D
 version=1.0
 author=MM CHATGPT
