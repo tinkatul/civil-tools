@@ -13,8 +13,9 @@ email=MARTIN@EXAMPLE.ORG
 
 about=TRANSFORMA CAPA LINEAS EN LINEAS 3D
 
-tracker=https://github.com/mmoran/civil-tools/issues
-repository=https://github.com/mmoran/civil-tools
+tracker=https://github.com/tinkatul/civil-tools/issues
+repository=https://github.com/tinkatul/civil-tools
+homepage=https://github.com/tinkatul/civil-tools
 # End of mandatory metadata
 
 # Recommended items:
