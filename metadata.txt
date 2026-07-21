@@ -11,7 +11,7 @@ version=1.0.1
 author=Martin Moran
 email=moran.martin.andres@gmail.com
 
-about=Transforma capas de líneas 2D en líneas 3D utilizando un campo de elevación.
+about=Transforma capas de líneas 2D que tienen campo ELEV, usualmente curvas de nivel extraídas desde un arhivo tiff traído desde OpenTopography, en líneas con altura que permite que la tomen al exportarla a dxf.
 
 tracker=https://github.com/tinkatul/civil-tools/issues
 repository=https://github.com/tinkatul/civil-tools
